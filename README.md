@@ -1,6 +1,6 @@
 # A bit of Bio
 
-Hi! I'm **Parsa**. At first I wanted to be a Python developer. I learned it for 2 years. then I see HTML and CSS coding for frontend skills. at first I didn't know what are those, but I love it since I watch Youtube totorials and figure out what are they. after that I start coding for web to know. it's about 3 years. My Skills are **HTML - CSS - JavaScript - Sass - Bootstrap**. moreover, I like to learn Vuejs in future and build tons of projects with it :)
+Hi! I'm **Parsa**. At first I wanted to be a Python developer. I learned it for 2 years. then I see HTML and CSS coding for frontend skills. at first I didn't know what are those, but I love it since I watch Youtube totorials and figure out what are they. after that I start coding for web. it's about 3 years that I'm Web developer. My Skills are **HTML - CSS - JavaScript - Sass - Bootstrap**.
 
 ## Summary of my account
 <a href="https://github.com/ParsaProgramming">
