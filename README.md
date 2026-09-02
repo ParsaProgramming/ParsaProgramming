@@ -17,11 +17,11 @@ about_me = {
 - Data Visualisation
 ## 🎯 Tech Stacks
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-## Ways To Contact me
+## 📱 Ways To Contact me
 <p align="left">
-<a href="https://stackoverflow.com/users/21715940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21715940" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21715940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21715940" height="40" width="50" /></a>
 </p>
 
-## My Favorite Quote
+## 🎖️ My Favorite Quote
 > Talk is cheap. Show me the code.
 > — Linus Torvalds
