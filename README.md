@@ -8,16 +8,16 @@
 </div>
 
 ## 👋 Hello, I'm Parsa, A Python Developer
+
 ### Turning ideas into code — one project at a time, while learning new technologies, solving challenges, and continuously improving along the way.
 
-### `Code • Build • Learn • Improve`
+### `Code • Build • Learn • Improve` 
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ParsaProgramming&style=for-the-badge&color=3776AB&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/ParsaProgramming?style=for-the-badge&color=green&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/ParsaProgramming?style=for-the-badge&color=FFD43B&label=STARS" />
-
 
 </div>
 
@@ -44,7 +44,6 @@ class Developer:
 ---
 
 ## 📊 GitHub Statistics
-
 
 <table align="center">
 <tr>
@@ -88,7 +87,7 @@ class Developer:
 </div>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
+
 </div>
-
-
